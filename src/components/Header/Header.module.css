@@ -1,0 +1,22 @@
+.header{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px 20px;
+    font-size: 2rem;
+    gap: 2rem;
+    margin-top: 1rem;
+ 
+}
+h1{
+    color:black;
+    
+}
+
+.data{
+    display: flex;
+    gap: 2rem;
+    font-size: 1.5rem;
+    color: blueviolet;
+}
